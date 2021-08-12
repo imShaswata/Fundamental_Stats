@@ -3,7 +3,8 @@ A collection of topics on rudimentary statistics.
 Tipics discussed are mainly based on :
 
 
-
+- **About Statistics**
+  - Population vs Sample
 - **Descriptive Stat**
   - Types of Data
   - Representing Data
@@ -44,11 +45,11 @@ Tipics discussed are mainly based on :
 
 - **Some Special Topics**
   - ANOVA 
-- Regression
+  - Regression
     - LM
-        
+      - Linear Regression        
     - GLM
-        - Logistic regression
+      - Logistic regression
         
 
 
